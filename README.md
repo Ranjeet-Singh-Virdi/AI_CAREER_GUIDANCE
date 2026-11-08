@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 AI Career Guidance System
 ### **Course: CSE276 — Artificial Intelligence Foundations (CA1 Project-Based Assignment)**
 ### **Problem Statement P09 | Reference: Smart India Hackathon (SIH 2024 - SIH1781)**
@@ -188,3 +189,7 @@ Access the application at [http://localhost:8501](http://localhost:8501).
 ## 📜 Academic Integrity & License
 
 This project was built for **CSE276: Artificial Intelligence Foundations** and references the **Smart India Hackathon (SIH 2024 - SIH1781)** challenge. Occupational data is provided under Creative Commons Attribution 4.0 by the National Center for O*NET Development.
+=======
+# AI_CAREER_GUIDANCE
+SYSTEM
+>>>>>>> 99b9b30b31c1f232a05166756b4ff3935cced33c
